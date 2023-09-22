@@ -1,0 +1,16 @@
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\geralInterfaceWinForm.exe.config
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\geralInterfaceWinForm.exe
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\geralInterfaceWinForm.pdb
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.csproj.AssemblyReference.cache
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.Form1.resources
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.Properties.Resources.resources
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.csproj.GenerateResource.cache
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.csproj.CopyComplete
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.exe
+C:\Users\Fábio Leonel\source\repos\geralInterfaceWinForm\obj\Debug\geralInterfaceWinForm.pdb
